@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url(blackjack.jpg);
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+button{
+    margin-top: 10px;
+    text-align: center;
+    border: 1px solid  black;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+h1{
+    letter-spacing: 5px;
+    margin-top: 30px;
+    font-size: 50px;
+    text-shadow: 2px 2px #131111;
+}
+#message-el{
+    font-style: italic;
+    margin-top: 30px;
+    font-size: 25px;
+}
+p{
+    margin-top: 10px;
+    font-size: 20px;
+    text-shadow: 2px 2px #131111;
+}
